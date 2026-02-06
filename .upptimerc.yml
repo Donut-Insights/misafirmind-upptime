@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://framerusercontent.com/images/jfep2ZE5uCpTziweWhE0S7jeg.png?scale-down-to=512
   name: misafirmind
   introTitle: "**misafirmind** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: introMessage: Monitor the live status of misafirmind infrastructure and services. All checks are automated and updated in real time.
+  introMessage: "Monitor the live status of misafirmind infrastructure and services. All checks are automated and updated in real time."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
