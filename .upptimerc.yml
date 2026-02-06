@@ -16,6 +16,9 @@ status-website:
   name: " "
   introTitle: "Live status of **misafirmind** services"
   introMessage: "All checks are automated and updated in real time."
+  themeUrl: https://status.misafirmind.com/white-theme.css
+  i18n:
+    footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
