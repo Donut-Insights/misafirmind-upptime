@@ -1,17 +1,14 @@
-# Change these first
-owner: Donut-Insights # Your GitHub organization or username, where this repository lives
-repo: misafirmind-upptime # The name of this repository
+owner: Donut-Insights
+repo: misafirmind-upptime
 
 sites:
-  - name: misafirmind-survey
+  - name: message-orchestrator
+    url: https://api.misafirmind.com/messorch/actuator/health
+  - name: survey
     url: https://api.misafirmind.com/survey/health
-
-
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.misafirmind.com
-  #baseUrl: /
   logoUrl: https://framerusercontent.com/images/jfep2ZE5uCpTziweWhE0S7jeg.png?scale-down-to=512
   name: " "
   introTitle: "Live status of **misafirmind** services"
@@ -19,6 +16,3 @@ status-website:
   themeUrl: https://status.misafirmind.com/white-theme.css
   i18n:
     footer: ""
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
