@@ -13,7 +13,8 @@ status-website:
   cname: status.misafirmind.com
   #baseUrl: /
   logoUrl: https://framerusercontent.com/images/jfep2ZE5uCpTziweWhE0S7jeg.png?scale-down-to=512
-  introTitle: "Monitor the live status of **misafirmind** infrastructure and services"
+  name: " "
+  introTitle: "Live status of **misafirmind** services"
   introMessage: "All checks are automated and updated in real time."
 
 # Upptime also supports notifications, assigning issues, and more
