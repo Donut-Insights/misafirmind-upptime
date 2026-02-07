@@ -2,11 +2,17 @@ owner: Donut-Insights
 repo: misafirmind-upptime
 
 sites:
-  - name: message-orchestrator
+  - name: orchestrator
     url: https://api.misafirmind.com/messorch/actuator/health
+  - name: chat
+    url: https://api.misafirmind.com/chatflow/health
+  - name: llm
+    url: https://api.misafirmind.com/agentflow/health
+  - name: dashboard
+    url: https://api.misafirmind.com/maestro/health
   - name: survey
     url: https://api.misafirmind.com/survey/health
-    
+
 status-website:
   cname: status.misafirmind.com
   logoUrl: https://framerusercontent.com/images/jfep2ZE5uCpTziweWhE0S7jeg.png?scale-down-to=512
