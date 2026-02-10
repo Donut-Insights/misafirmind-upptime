@@ -22,6 +22,8 @@ status-website:
   introTitle: "Live status of **misafirmind** services"
   introMessage: "All checks are automated and updated in real time."
   themeUrl: https://status.misafirmind.com/white-theme.css
+  favicon: https://framerusercontent.com/avatars/teams/efb2dbfc-ba09-4482-8d02-2d6d55cbcb57/RoUPMPrVE
+  customHeadHtml: '<title>status | misafirmind</title>'
   i18n:
     footer: ""
 
