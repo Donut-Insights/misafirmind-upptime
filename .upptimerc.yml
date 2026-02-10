@@ -27,3 +27,4 @@ status-website:
 
 workflowSchedule:
   uptime: "*/5 * * * *"
+  responseTime: "*/30 * * * *"
