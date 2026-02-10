@@ -24,3 +24,6 @@ status-website:
   themeUrl: https://status.misafirmind.com/white-theme.css
   i18n:
     footer: ""
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
