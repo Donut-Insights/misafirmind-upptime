@@ -1,7 +1,7 @@
 url: https://api.misafirmind.com/chatflow/health
-status: down
-code: 502
-responseTime: 512
-lastUpdated: 2026-02-12T23:14:23.714Z
+status: up
+code: 200
+responseTime: 631
+lastUpdated: 2026-02-12T23:29:09.333Z
 startTime: 2026-02-07T19:35:53.454Z
 generator: Upptime <https://github.com/upptime/upptime>
