@@ -10,11 +10,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
-    "time": 570,
-    "timeDay": 549,
+    "time": 571,
+    "timeDay": 552,
     "timeWeek": 571,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2026-02-11": 27
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.misafirmind.com.ico",
     "slug": "chat",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 301,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 302,
+    "timeDay": 302,
+    "timeWeek": 305,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-02-15": 6,
       "2026-02-12": 17,
       "2026-02-11": 27
     }
@@ -74,7 +73,7 @@
     "uptimeYear": "99.77%",
     "time": 137,
     "timeDay": 139,
-    "timeWeek": 138,
+    "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
