@@ -11,7 +11,7 @@ sites:
   - name: dashboard
     url: https://api.misafirmind.com/maestro/health
   - name: go
-    url: https://api.misafirmind.com/go/health
+    url: https://go.misafirmind.com
   - name: survey
     url: https://api.misafirmind.com/survey/health
 
