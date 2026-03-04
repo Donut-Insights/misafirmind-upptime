@@ -1,7 +1,7 @@
 url: https://api.misafirmind.com/agentflow/health
-status: down
-code: 404
-responseTime: 119
-lastUpdated: 2026-03-04T18:29:09.742Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2026-03-04T18:51:55.270Z
 startTime: 2026-02-07T19:35:53.895Z
 generator: Upptime <https://github.com/upptime/upptime>
