@@ -1,7 +1,7 @@
 url: https://api.misafirmind.com/messorch/actuator/health
-status: down
-code: 404
-responseTime: 2354
-lastUpdated: 2026-03-15T07:27:47.013Z
+status: up
+code: 200
+responseTime: 9178
+lastUpdated: 2026-03-15T07:49:17.096Z
 startTime: 2026-02-07T19:35:52.621Z
 generator: Upptime <https://github.com/upptime/upptime>
